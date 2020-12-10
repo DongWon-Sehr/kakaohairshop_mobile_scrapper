@@ -1,0 +1,1 @@
+[{"category":"NAILCARE","categoryName":"네일","priceItems":[{"text":"~2.5만원","priceTo":25000},{"text":"2.5~3.5만원","priceFrom":25000,"priceTo":35000},{"text":"3.5만원~","priceFrom":35000}]},{"category":"PEDICURE","categoryName":"페디","priceItems":[{"text":"~3.5만원","priceTo":35000},{"text":"3.5~4.5만원","priceFrom":35000,"priceTo":45000},{"text":"4.5만원~","priceFrom":45000}]}]
